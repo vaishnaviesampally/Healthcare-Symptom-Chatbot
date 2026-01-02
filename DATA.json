@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "Name": "hi",
+            "Age": 20,
+            "Gender": "female",
+            "Disease": "GERD",
+            "Sympts": [
+                "stomach_pain",
+                "stomach_pain",
+                "acidity",
+                "vomiting",
+                "cough"
+            ]
+        }
+    ]
+}
